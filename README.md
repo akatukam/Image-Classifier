@@ -1,2 +1,2 @@
-# ImageClassifier
+# Image Classifier
 Cats vs Dogs
